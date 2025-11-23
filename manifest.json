@@ -1,0 +1,16 @@
+{
+  "name": "DocGenius AI Writer",
+  "short_name": "DocGenius",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "description": "AI-powered document generation tool.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4712/4712009.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
